@@ -1,0 +1,13 @@
+chrome.cloudflare-dns.com
+dns-family.adguard.com
+dns-unfiltered.adguard.com
+dns.adguard.com
+dns.alidns.com
+dns.google
+dns.google.com
+dns.nextdns.io
+family.cloudflare-dns.com
+firefox.dns.nextdns.io
+mozilla.cloudflare-dns.com
+opera.cloudflare-dns.com
+security.cloudflare-dns.com
