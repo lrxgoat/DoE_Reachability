@@ -1,4 +1,4 @@
-# A Worldwide View on the Reachability of Encrypted DNS Services
+# [WWW '24] A Worldwide View on the Reachability of Encrypted DNS Services
 ### block_check
 
 This is the source code of the DoE service reachability measurement.
